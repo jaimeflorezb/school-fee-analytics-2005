@@ -1,0 +1,63 @@
+﻿section,category,relative_frequency,notes
+Variable,Núm de Hijos por familia,Frecuencia relativa,Observaciones
+Variable,1,0.378,Base de calculo: 196 familias; Fuente: Encuestas realizadas a familias del Colegio Luis Horacio Gomez.
+Variable,2,0.449,
+Variable,3,0.148,
+Variable,4,0.015,
+Variable,5,0.01,
+Núm de Hijos matriculados en el Colegio,1,0.679,Base de calculo: 196 familias; Fuente: Encuestas realizadas a familias del Colegio Luis Horacio Gomez; Relación Número de hijos Vs.  Hijos matriculados en el Colegio es de 2 a 1
+Núm de Hijos matriculados en el Colegio,2,0.29,
+Núm de Hijos matriculados en el Colegio,3,0.031,
+Nivel actual de los estudiantes en el Colegio,1,0.09,Base de calculo: 267 estudiantes; Fuente: Encuestas realizadas a familias del Colegio Luis Horacio Gomez.
+Nivel actual de los estudiantes en el Colegio,2,0.139,
+Nivel actual de los estudiantes en el Colegio,3,0.371,
+Nivel actual de los estudiantes en el Colegio,4,0.326,
+Nivel actual de los estudiantes en el Colegio,5,0.052,
+Nivel actual de los estudiantes en el Colegio,6,0.022000000000000002,
+Núm de estudiantess según matriculada pagada,< 250 mil,0.216,Base de calculo: 267 estudiantes; Fuente: Encuestas realizadas a familias del Colegio Luis Horacio Gomez.
+Núm de estudiantess según matriculada pagada,250.1 mil - 330 mil,0.674,
+Núm de estudiantess según matriculada pagada,330.1 mil - 472 mil,0.095,
+Núm de estudiantess según matriculada pagada,> 472.1 mil,0.015,
+Estrato socioeconómico,2,0.031,Base de calculo: 196 familias; Fuente: Encuestas realizadas a familias del Colegio Luis Horacio Gomez.
+Estrato socioeconómico,3,0.263,
+Estrato socioeconómico,4,0.361,
+Estrato socioeconómico,5,0.299,
+Estrato socioeconómico,6,0.046,
+Consumo de energia por familia (kilowats),< 50,0.043,Base de calculo: 196 familias; Fuente: Encuestas realizadas a familias del Colegio Luis Horacio Gomez.
+Consumo de energia por familia (kilowats),(50 - 99],0.032,
+Consumo de energia por familia (kilowats),(99 - 149],0.135,
+Consumo de energia por familia (kilowats),(149 - 199],0.189,
+Consumo de energia por familia (kilowats),(199 - 249],0.21600000000000003,
+Consumo de energia por familia (kilowats),(249 - 299],0.2,
+Consumo de energia por familia (kilowats),(299 - 349],0.094,
+Consumo de energia por familia (kilowats),(349 - 399],0.043,
+Consumo de energia por familia (kilowats),(399 - 500],0.032,
+Consumo de energia por familia (kilowats),(500 - 999],0.016,
+Consumo de agua por familia (Mts cúbicos - M3),< 10,0.163,Base de calculo: 196 familias; Fuente: Encuestas realizadas a familias del Colegio Luis Horacio Gomez.
+Consumo de agua por familia (Mts cúbicos - M3),(10 - 19],0.214,
+Consumo de agua por familia (Mts cúbicos - M3),(19 - 29],0.37799999999999995,
+Consumo de agua por familia (Mts cúbicos - M3),(29 - 39],0.163,
+Consumo de agua por familia (Mts cúbicos - M3),(39 - 49],0.046,
+Consumo de agua por familia (Mts cúbicos - M3),(49 - 99],0.031,
+Consumo de agua por familia (Mts cúbicos - M3),> 100,0.005,
+Valor pagado de SS.PP. por familias (miles de pesos),< 50,0.038,Base de calculo: 196 familias; Fuente: Encuestas realizadas a familias del Colegio Luis Horacio Gomez.
+Valor pagado de SS.PP. por familias (miles de pesos),(50 - 100],0.272,
+Valor pagado de SS.PP. por familias (miles de pesos),(100 - 150],0.35200000000000004,
+Valor pagado de SS.PP. por familias (miles de pesos),(150 - 200],0.15,
+Valor pagado de SS.PP. por familias (miles de pesos),(200 - 250],0.10799999999999996,
+Valor pagado de SS.PP. por familias (miles de pesos),> 250,0.07999999999999993,
+Valor pagado de teléfono por familias (miles de pesos),< 40,0.174,Base de calculo: 196 familias; Fuente: Encuestas realizadas a familias del Colegio Luis Horacio Gomez.
+Valor pagado de teléfono por familias (miles de pesos),(40 - 60],0.17300000000000004,
+Valor pagado de teléfono por familias (miles de pesos),(60 - 80],0.14099999999999996,
+Valor pagado de teléfono por familias (miles de pesos),(80 - 100],0.15499999999999997,
+Valor pagado de teléfono por familias (miles de pesos),(100 - 120],0.052000000000000046,
+Valor pagado de teléfono por familias (miles de pesos),(120 - 140],0.09400000000000008,
+Valor pagado de teléfono por familias (miles de pesos),(140 - 160],0.050999999999999934,
+Valor pagado de teléfono por familias (miles de pesos),> 160,0.10400000000000009,
+Ingreso Anual Bruto de las madres (miles de pesos),[4300 - 9470],0.115,Base de calculo: 61 familias; No todas las familias encuestadas presentaron la información.
+Ingreso Anual Bruto de las madres (miles de pesos),(9470 - 14430],0.131,
+Ingreso Anual Bruto de las madres (miles de pesos),(14430 - 18350],0.131,
+Ingreso Anual Bruto de las madres (miles de pesos),(18350 - 22958],0.131,
+Ingreso Anual Bruto de las madres (miles de pesos),(22958 - 32141],0.18,
+Ingreso Anual Bruto de las madres (miles de pesos),(32141 - 49956],0.14800000000000002,
+Ingreso Anual Bruto de las madres (miles de pesos),> 49956,0.164,

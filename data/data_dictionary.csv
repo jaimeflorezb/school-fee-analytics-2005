@@ -1,0 +1,28 @@
+﻿variable,file,definition,unit_or_type,source
+section,descriptive_data_2005.csv,Descriptive indicator or distribution block,text,Archival descriptive workbook
+category,descriptive_data_2005.csv,Category or interval within a descriptive distribution,text,Archival descriptive workbook
+relative_frequency,descriptive_data_2005.csv,Share of observations in the category,proportion,Archival descriptive workbook
+notes,descriptive_data_2005.csv,Original base-size and source note when available,text,Archival descriptive workbook
+proposal,tariff_scenarios_2005.csv,Original tariff proposal number,integer,Proposals workbook / thesis
+variant,tariff_scenarios_2005.csv,Scenario or grouping logic used within the proposal,text,Reconstructed label
+group_or_level,tariff_scenarios_2005.csv,Original level/group identifier,integer,Proposals workbook / thesis
+increase_rate,tariff_scenarios_2005.csv,Applied proportional increase where relevant,proportion,Proposals workbook
+current_tuition,tariff_scenarios_2005.csv,Current tuition amount,COP,Proposals workbook
+estimated_tuition,tariff_scenarios_2005.csv,Tuition estimated under the proposal/model,COP,Proposals workbook
+adjusted_tuition,tariff_scenarios_2005.csv,Estimated tuition after proposal-specific adjustment,COP,Proposals workbook
+average_income,tariff_scenarios_2005.csv,Average household income reported for the level/group,COP/month,Proposals workbook
+ability_to_pay,tariff_scenarios_2005.csv,Ability-to-pay ceiling reported in the proposal,COP/month,Proposals workbook
+maximum_willingness_to_pay,tariff_scenarios_2005.csv,Maximum willingness to pay reported for the level/group,COP/month,Proposals workbook
+exceeds_ability_to_pay,tariff_scenarios_2005.csv,Indicator reported in the proposal table,text,Proposals workbook
+intercept_initial,tariff_scenarios_2005.csv,Initial intercept used in grouped model proposals,COP,Proposals workbook
+intercept_adjusted,tariff_scenarios_2005.csv,Adjusted intercept used for each income group,COP,Proposals workbook
+income_coefficient,tariff_scenarios_2005.csv,Income slope used in grouped model proposals,coefficient,Proposals workbook
+model,archival_model_results_2005.csv,Model specification identifier,text,Thesis Table 14-18 / Appendix
+dependent_variable,archival_model_results_2005.csv,Dependent variable used in the reported model,text,Thesis
+independent_variables,archival_model_results_2005.csv,Independent variable(s) used in the reported model,text,Thesis
+intercept,archival_model_results_2005.csv,Reported constant term,coefficient,Thesis
+income_coefficient,archival_model_results_2005.csv,Reported coefficient associated with income or log income,coefficient,Thesis
+r_squared,archival_model_results_2005.csv,Reported coefficient of determination,statistic,Thesis
+adjusted_r_squared,archival_model_results_2005.csv,Reported adjusted R-squared when transcribed,statistic,Thesis
+durbin_watson,archival_model_results_2005.csv,Reported Durbin-Watson statistic,statistic,Thesis
+n,archival_model_results_2005.csv,Number of observations in the reported regression,count,Thesis

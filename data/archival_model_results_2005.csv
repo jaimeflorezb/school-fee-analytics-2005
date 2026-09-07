@@ -1,0 +1,5 @@
+﻿model,dependent_variable,independent_variables,intercept,income_coefficient,r_squared,adjusted_r_squared,durbin_watson,n,status
+linear_income,tuition,income,135004.0,0.048,0.937461,0.921826,1.384182,6,reported_in_thesis
+lin_log_income,tuition,ln(income),-2470955.0,184995.4,0.955291,,2.076156,6,reported_in_thesis
+log_lin_income,ln(tuition),income,12.16098,1.17e-07,0.827876,,1.23593,6,reported_in_thesis
+log_log_income,ln(tuition),ln(income),4.215032,0.558078,0.905445,0.881807,1.652406,6,reported_in_thesis
